@@ -35,9 +35,9 @@ Original submission description:
 
 Original submission screenshots:
 
-![Screenshot #1](Screenshots/screenshot-1.png)
-![Screenshot #2](Screenshots/screenshot-2.png)
-![Screenshot #3](Screenshots/screenshot-3.png)
+![Screenshot #1](screenshots/screenshot-1.png)
+![Screenshot #2](screenshots/screenshot-2.png)
+![Screenshot #3](screenshots/screenshot-3.png)
 
 ## License
 Warrior is available under the terms of the MIT license. See [LICENSE.txt](LICENSE.txt) or <https://opensource.org/licenses/MIT> for details.
