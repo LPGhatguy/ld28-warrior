@@ -1,0 +1,37 @@
+id=2
+name=Tozuka Takamori
+bio=Tozuka Takamori is part of a family of nobel samurai. His blood is the stuff of legend.
+
+images=samurai.png,samurai2.png
+
+sound_win=samurai_win.ogg
+
+sound_hit=samurai_hit.ogg
+sound_hurt=samurai_hurt.ogg
+sound_move=move.ogg
+sound_land=samurai_land.ogg
+
+max_health=5
+idle_speed=0.4
+
+jump_height=380
+jump_length=60
+jump_speed=0.7
+
+hit_threshold=0.4
+hit_charge_threshold=0.3
+hit_move=35
+hit_height=80
+hit_speed=0.08
+hit_knockback=100
+hit_knockbacked=1
+
+hitbox=26,70
+
+@0,0,34,78
+@36,0,34,78
+
+@0,80,47,71
+@52,80,54,71
+
+@0,151,33,73
